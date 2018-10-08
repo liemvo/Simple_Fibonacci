@@ -40,10 +40,6 @@ dependencies {
     implementation deps.lifecycle.runtime
     implementation deps.lifecycle.extensions
     annotationProcessor deps.lifecycle.compiler
-    // Dagger
-    implementation deps.dagger.android
-    implementation deps.dagger.android_support
-    annotationProcessor deps.dagger.android_support_compiler
 
     testImplementation deps.unittest.junit
     androidTestImplementation deps.atsl.runner

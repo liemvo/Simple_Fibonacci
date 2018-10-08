@@ -1,11 +1,11 @@
-Simple Fibonacci in Kotlin language that are using: 
+# Simple Fibonacci: 
 
-##ViewModel
-##Databinding
-##ConstraintLayout
+## ViewModel
+## Data binding
+## ConstraintLayout
 
-##Unit testing
+## Unit testing
 Using JUnit for unit testing
 
-##UI testing
+## UI testing
 Using espresso 

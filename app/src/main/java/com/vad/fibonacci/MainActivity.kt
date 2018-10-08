@@ -16,6 +16,6 @@ class MainActivity : AppCompatActivity() {
         binding.executePendingBindings()
 
         // Initial view
-        binding?.viewModel?.next()
+        binding.viewModel?.next()
     }
 }
